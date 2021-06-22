@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>tuanld2k_SWTLab</sonar.projectKey>
+  <sonar.organization>tuanld2k</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
